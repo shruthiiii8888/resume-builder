@@ -1,6 +1,6 @@
 const HOST = "localhost";
  const USER = "postgres";
-const PASSWORD = "shrut@8888";
+const PASSWORD = "sh";
  const DB = "shrut";
  const dialect = "postgres";
 const port = 8888;
